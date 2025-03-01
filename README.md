@@ -1,3 +1,18 @@
+# REAL -TIME-CHAT 
+*Compny*: CODTECH IT SOLUTIONS    
+*NAME*: Shakambhari shrivastav     
+*INTERN ID*: CT08RJS      
+*DOMAIN*: FRONTED END DEVELOPER       
+*DURATION*: 4 WEEKS      
+## CODE DESCRIPTION OR WEBSITE       
+Features:     
+1. Quiz Interface :     
+   -> The homepage displays a "Quiz" title.        
+   -> A single question appears at a time with four answer options..      
+   -> Users can select an answer and submit their response.
+   
+ Functionality:
+
 # React Firebase Chat App
 
 This project utilizes React and Firebase to create a chat application.
